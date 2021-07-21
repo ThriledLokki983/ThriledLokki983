@@ -16,5 +16,5 @@
 <a href="https://fb.com/gideon nimoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gideon nimoh" height="20" width="20"/></a>
 </p>
 
-<hr>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983)](https://github.com/anuraghazra/github-readme-stats)
