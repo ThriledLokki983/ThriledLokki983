@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/thrilledlokki983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thrilledlokki983" height="30" width="40" /></a>
+<a href="https://codepen.io/ThriledLokki983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thrilledlokki983" height="30" width="40" /></a>
 <a href="https://twitter.com/nimohagyin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimohagyin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nimohgideon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimohgideon" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/thrilledlokki983" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thrilledlokki983" height="30" width="40" /></a>
