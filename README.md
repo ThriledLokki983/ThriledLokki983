@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, Gideon here...</h3>
 <hr>
-<h5 align="left">I'm originally from Ghana but currently living in The Netherlands with my girlfriend and my little boy (Benjamin). I really enjoy learning langauges and frameworks like React, Django, Laravel etc. as well as work with WordPress. Programming is a a second nature to me apart from taking care of my family.</h5>
+<h5 align="left">I'm originally from Ghana but currently living in The Netherlands with my girlfriend and my little boy (Benjamin). I really enjoy learning langauges and frameworks like React, NodeJS, Django etc. as well as work with WordPress. Programming is a a second nature to me apart from taking care of my family.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thrilledlokki983&label=Profile%20views&color=0e75b6&style=flat" alt="thrilledlokki983" /> </p>
 
