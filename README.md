@@ -19,7 +19,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983&show_icons=true&theme=dark)
 
-<p>My Cards </p>
 <hr/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThriledLokki983&repo=github-readme-stats)](https://github.com/ThriledLokki983/github-readme-stats)
 
