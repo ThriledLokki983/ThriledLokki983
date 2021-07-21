@@ -20,6 +20,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983&show_icons=true&theme=dracula&show_icons=true)
 
 <hr/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThriledLokki983&layout=compact)
 
 
