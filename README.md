@@ -17,7 +17,7 @@
 </p>
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983&show_icons=true&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983&show_icons=true&theme=dracula&show_icons=true)
 
 
 
