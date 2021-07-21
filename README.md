@@ -2,7 +2,7 @@
 <hr/>
 <h5 align="left">I'm originally from Ghana but currently living in The Netherlands with my girlfriend and my little boy (Benjamin). I really enjoy learning langauges and frameworks like React, NodeJS, Django etc. as well as work with WordPress. Programming is a a second nature to me apart from taking care of my family.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrilledlokki983&label=Profile%20views&color=0e75b6&style=flat" alt="thrilledlokki983" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thrilledlokki983&label=Profile%20views&color=0e75b6&style=flat" alt="thrilledlokki983" /> -</p>
 
 
 <p align="left"> <a href="https://twitter.com/nimohagyin" target="blank"><img src="https://img.shields.io/twitter/follow/nimohagyin?logo=twitter&style=for-the-badge" alt="nimohagyin" /></a> </p>
