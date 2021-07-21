@@ -20,10 +20,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThriledLokki983&show_icons=true&theme=dark)
 
 <hr/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThriledLokki983&repo=github-readme-stats)](https://github.com/ThriledLokki983/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThriledLokki983&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThriledLokki983)](https://github.com/ThriledLokki983/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThriledLokki983)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
