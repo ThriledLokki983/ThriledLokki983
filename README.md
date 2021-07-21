@@ -21,4 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThriledLokki983&layout=compact)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThriledLokki983&repo=github-readme-stats)
+
+
 
